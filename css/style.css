@@ -31,11 +31,7 @@ a{
     padding: 10px 0;
 }
 
-.top-bar .logo{
-    
-}
-
-.top-bar a{
+.top-bar .logo a{
     color: white;
     font-size: 20px;
     font-weight: 600;
@@ -57,5 +53,4 @@ a{
     color: white;
     font-size: 15px;
     padding: 0 15px;
-    font-weight: unset;
 }
