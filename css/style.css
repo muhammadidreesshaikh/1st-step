@@ -61,7 +61,6 @@ a{
 }
 
 
-
 /* dropdown buttn */
 .dropdown {
     position: relative;
@@ -95,7 +94,7 @@ a{
     right: 0;
     background: linear-gradient(77deg, #f5286e, #fc6d43);
     overflow-x: hidden;
-    transition: 0.5s;
+    transition: 0.9s;
 }
 
 .sidenav.active {
